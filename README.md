@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
+
+<div id="header" align="center">
+  <img src="https://static.wixstatic.com/media/1a1140_6078a0cb8c534e11960700ae86aa872b~mv2.gif
+" width="100"/>
+</div>
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ---
 
 ### :hammer_and_wrench: Tools and Languages :
