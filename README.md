@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### Hi there 👋nhyu
 
 <!--
 **zackhard/zackhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 <div id="header" align="center">
-  <img src="https://static.wixstatic.com/media/1a1140_6078a0cb8c534e11960700ae86aa872b~mv2.gif
-" width="100"/>
+  <img src="https://static.wixstatic.com/media/1a1140_6078a0cb8c534e11960700ae86aa872b~mv2.gif" width="400"/>
 </div>
----
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
+- :telescope: I’m working as a Power BI Support Escalation Engineer at Microsoft and passionate about all things Power BI, Analysis Services and PowerShell Automation.
 ---
 
 ### :hammer_and_wrench: Tools and Languages :
