@@ -1,5 +1,5 @@
 
-### Hi there 👋nhyu
+### Hi there 👋
 
 <!--
 **zackhard/zackhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,8 @@ Here are some ideas to get you started:
   <img src="https://static.wixstatic.com/media/1a1140_6078a0cb8c534e11960700ae86aa872b~mv2.gif" width="400"/>
 </div>
 
-- :telescope: I’m working as a Power BI Support Escalation Engineer at Microsoft and passionate about all things Power BI, Analysis Services and PowerShell Automation.
+### :man_technologist: &nbsp;About Me :
+- :telescope: I’m working as a Power BI Support Escalation Engineer at Microsoft and passionate about all things Power BI <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI" alt="Power BI" width="40" height="30"/>, Azure Analysis Services <img src="http://code.benco.io/icon-collection/azure-icons/Analysis-Services.svg" title="Azure Analysis Services" alt="Azure Analysis Services" width="40" height="30"/> and PowerShell Automation <img src="http://code.benco.io/icon-collection/azure-icons/Powershell.svg" title="PowerShell" alt="PowerShell" width="40" height="30"/>.
 ---
 
 ### :hammer_and_wrench: Tools and Languages :
