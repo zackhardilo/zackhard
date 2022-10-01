@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Tools and Languages :
 <div>
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
-  <img src="http://code.benco.io/icon-collection/azure-icons/Analysis-Services.svg" title="Azure Analysis Services" alt="Azure Analysis Services" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp;
+  <img src="http://code.benco.io/icon-collection/azure-icons/Analysis-Services.svg" title="Azure Analysis Services" alt="Azure Analysis Services" width="50" height="50"/>&nbsp;
   <img src="http://code.benco.io/icon-collection/azure-icons/Powershell.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
   <img src="http://code.benco.io/icon-collection/azure-icons/Azure-Data-Explorer-Clusters.svg" title="Azure Data Explorer" alt="Azure Data Explorer" width="40" height="40"/>&nbsp;
   <img src="http://code.benco.io/icon-collection/azure-icons/Azure-Synapse-Analytics.svg" title="Azure Synapse" alt="Azure Synapse" width="40" height="40"/>&nbsp;
