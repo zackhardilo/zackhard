@@ -36,10 +36,10 @@ Here are some ideas to get you started:
   <img src="http://code.benco.io/icon-collection/azure-icons/Powershell.svg" title="PowerShell" alt="PowerShell" width="50" height="50"/>&nbsp;
   <img src="http://code.benco.io/icon-collection/azure-icons/Azure-Data-Explorer-Clusters.svg" title="Azure Data Explorer" alt="Azure Data Explorer" width="50" height="50"/>&nbsp;
   <img src="http://code.benco.io/icon-collection/azure-icons/Azure-Synapse-Analytics.svg" title="Azure Synapse" alt="Azure Synapse" width="50" height="50"/>&nbsp;
+  <img src="http://code.benco.io/icon-collection/azure-icons/Azure-DevOps.svg" title="Azure DevOps" alt="Azure DevOps" width="50" height="50"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-Query-Colored.svg" title="Power Query" alt="Power Query" width="50" height="50"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Desktop.svg"  title="Power BI Desktop" alt="Power BI Desktop" width="50" height="50"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Dataflow.svg" title="Data Flow" alt="Data Flow" width="50" height="50"/>&nbsp;
   <img src="http://code.benco.io/icon-collection/azure-icons/Software-as-a-Service.svg" title="SaaS" alt="SaaS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="60"/>
 </div>
