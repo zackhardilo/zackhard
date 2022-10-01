@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 
 ### :man_technologist: &nbsp;About Me :
-- :telescope: I’m working as a Power BI Support Escalation Engineer at Microsoft and passionate about all things Power BI <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI" alt="Power BI" width="40" height="30"/>, Azure Analysis Services <img src="http://code.benco.io/icon-collection/azure-icons/Analysis-Services.svg" title="Azure Analysis Services" alt="Azure Analysis Services" width="40" height="30"/> and PowerShell Automation <img src="http://code.benco.io/icon-collection/azure-icons/Powershell.svg" title="PowerShell" alt="PowerShell" width="40" height="30"/>.
+- :telescope: I’m working as a Power BI Support Escalation Engineer at Microsoft and I'm passionate about all things Power BI <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI" alt="Power BI" width="40" height="30"/>, Azure Analysis Services <img src="http://code.benco.io/icon-collection/azure-icons/Analysis-Services.svg" title="Azure Analysis Services" alt="Azure Analysis Services" width="40" height="30"/> and PowerShell Automation <img src="http://code.benco.io/icon-collection/azure-icons/Powershell.svg" title="PowerShell" alt="PowerShell" width="40" height="30"/>.
 ---
 
 ### :hammer_and_wrench: Tools and Languages :
