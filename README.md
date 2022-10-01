@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ### :man_technologist: &nbsp;About Me :
 - :telescope: I’m working as a Power BI Support Escalation Engineer at Microsoft and I'm passionate about all things Power BI <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI" alt="Power BI" width="40" height="30"/>, Azure Analysis Services <img src="http://code.benco.io/icon-collection/azure-icons/Analysis-Services.svg" title="Azure Analysis Services" alt="Azure Analysis Services" width="40" height="30"/> and PowerShell Automation <img src="http://code.benco.io/icon-collection/azure-icons/Powershell.svg" title="PowerShell" alt="PowerShell" width="40" height="30"/>.
+- 🌱 I’m currently learning more about Power BI REST APIs, Power BI Embedded, Azure Synapse, Azure DevOps & CI/CD and Writing PowerShell Scripts for Power BI.
+- 💬 Ask me about Power BI, Azure Analysis Services, DAX, M Programming and Best Practices to Improve Power BI Performance and Design.
 ---
 
 ### :hammer_and_wrench: Tools and Languages :
